@@ -2,7 +2,7 @@
   <h1>Automated Model Training with Azure ML Studio</h1>
 </div>
 
-1. Create a workspace:
+**1. Create a workspace:**
 
 > ![Workspace](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/efce2078-305c-49b5-acf6-219346e1dcd2)
 
@@ -14,7 +14,7 @@
 
 <br>
 
-2. Upload a dataset:
+**2. Upload a dataset:**
 
 
 > ![Workspace](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/efce2078-305c-49b5-acf6-219346e1dcd2) (***Note:** For this project, we will use this [dataset]().*)
@@ -24,7 +24,7 @@
 
 <br>
 
-3. Using [Automated ML](https://learn.microsoft.com/en-us/azure/machine-learning/concept-automated-ml?view=azureml-api-2), create an automated Machine Learning job: 
+**3. Create an automated Machine Learning job:** 
 
 
  
