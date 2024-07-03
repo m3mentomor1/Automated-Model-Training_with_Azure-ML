@@ -2,6 +2,10 @@
   <h1>Automated Model Training with Azure ML Studio</h1>
 </div>
 
+### 🧐 I. Overview
+
+This is a tutorial project that involves training an machine learning model using Automated ML/AutoML in Azure Machine Learning Studio.
+
 **1. Create a workspace:**
 
 > ![Workspace](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/efce2078-305c-49b5-acf6-219346e1dcd2)
