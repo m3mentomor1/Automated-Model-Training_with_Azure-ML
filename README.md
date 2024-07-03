@@ -12,6 +12,8 @@
 - In the **Region** section, choose the region where you want your workspace to be deployed. (***Note:** Select a region based on accessibility and availability. For this project, it will be deployed in "East US 2" due to its high availability.*)<br><br>
 - Click ``Create``.<br><br>
 
+<br>
+
 2. Upload a dataset:
 
 
@@ -20,6 +22,7 @@
 - In the **Assets** section, go to **Data**.<br><br>
 - In the **Data** page, click ``+ Create``.<br><br>
 
+<br>
 
 3. Using [Automated ML](https://learn.microsoft.com/en-us/azure/machine-learning/concept-automated-ml?view=azureml-api-2), create an automated Machine Learning job: 
 
