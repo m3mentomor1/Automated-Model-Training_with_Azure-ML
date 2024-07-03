@@ -10,6 +10,10 @@ This is a tutorial project that involves training an machine learning model usin
 
 ### 📋 II. Prerequisites
 
+- Azure account and subscription.
+- Familiarity with basic Azure concepts such as resource groups, subscriptions, Azure Storage, Azure Compute (VMs, Databricks), Azure Networking, and Azure Security.
+- Basic understanding of machine learning concepts such as supervised learning, classification, regression, and evaluation metrics.
+
 <br><br>
 ##
 
