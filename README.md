@@ -2,7 +2,7 @@
   <h1>Automated Model Training with Azure ML Studio</h1>
 </div>
 
-1. On the home page of[Azure Machine Learning Studio](https://ml.azure.com/), create a workspace:
+1. On the home page of [Azure Machine Learning Studio](https://ml.azure.com/), create a workspace:
 
 > ![Workspace](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/efce2078-305c-49b5-acf6-219346e1dcd2)
 
