@@ -4,14 +4,14 @@
 
 ### 🧐 I. Overview
 
-This is a tutorial project that involves training an machine learning model using Automated ML/AutoML in Azure Machine Learning Studio.
+This is a tutorial project that involves training a machine learning model using Automated ML/AutoML in Azure Machine Learning Studio. The model that will be trained is a simple classification model that predicts if a client will subscribe to a fixed term deposit with a financial institution or not.
 <br><br>
 ##
 
 ### 📋 II. Prerequisites
 
-- Azure account and subscription.
-- Familiarity with basic Azure concepts such as resource groups, subscriptions, Azure Storage, Azure Compute (VMs, Databricks), Azure Networking, and Azure Security.
+- Azure account and subscription.<br>
+- Familiarity with basic Azure concepts such as resource groups, subscriptions, Azure Storage, Azure Compute (VMs, Databricks), Azure Networking, and Azure Security.<br>
 - Basic understanding of machine learning concepts such as supervised learning, classification, regression, and evaluation metrics.
 
 <br><br>
