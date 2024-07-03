@@ -5,8 +5,15 @@
 ### 🧐 I. Overview
 
 This is a tutorial project that involves training an machine learning model using Automated ML/AutoML in Azure Machine Learning Studio.
+<br><br>
+##
 
 ### 📋 II. Prerequisites
+
+<br><br>
+##
+
+### 🎓 III. Tutorial
 
 **1. Create a workspace:**
 
