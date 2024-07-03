@@ -22,7 +22,7 @@
 - In the **Assets** section, go to **Data**.<br><br>
 - In the **Data** page, click ``+ Create``.<br><br>
 - In the **Name** section, enter a name for your data asset (***Note:** You can choose any name, but for this project, it will be named "bankmarketing".*). Next, in the **Type** section, select the type of data stored in your dataset. (***Note:** For this project, the type of data we'll use is "Tabular".*). After that, click ``Next``.<br><br>
-- 
+- Select the source from which your dataset will be imported by choosing a source for your data asset. (***Note:** For this project, we'll select "From local files".*). After that, click ``Next``.<br><br> 
 
 <br>
 
