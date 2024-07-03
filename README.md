@@ -32,9 +32,6 @@ This is a tutorial project that involves training a machine learning model using
 
 **2. Upload a dataset:**
 
-
-> ![Workspace](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/efce2078-305c-49b5-acf6-219346e1dcd2)
-
 - In the **Assets** section, go to **Data**.<br><br>
 - In the **Data** page, click ``+ Create``.<br><br>
 - In the **Name** section, enter a name for your data asset (***Note:** You can choose any name, but for this project, it will be named "bankmarketing".*). Next, in the **Type** section, select the type of data stored in your dataset. (***Note:** For this project, the type of data we'll use is "Tabular".*). After that, click ``Next``.<br><br>
