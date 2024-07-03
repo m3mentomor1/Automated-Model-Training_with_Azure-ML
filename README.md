@@ -11,7 +11,7 @@
 - In the **Region** section, choose the region where you want your workspace to be deployed. (***Note:** Select a region based on accessibility and availability. For this project, it will be deployed in "East US 2" due to its high availability.*)<br><br>
 - Click **Create**.<br><br>
 
-2. In the **Assets** section, go to **Data** & upload a dataset:
+2. In the **Assets** section, go to **Data** & upload a dataset (Note: For this project, we will use this [dataset]().):
   
 
 
