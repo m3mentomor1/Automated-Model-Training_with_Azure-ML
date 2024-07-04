@@ -22,7 +22,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 ### 1. Create a workspace<br>
 
-**Option 1: From the *Azure Machine Learning Studio* website**<br>
+**Option 1: From the *Azure Machine Learning Studio***<br>
 
 > ![Workspace Creation](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/fb3aab2d-b3b5-437d-8625-15b67ec79bba)
 
