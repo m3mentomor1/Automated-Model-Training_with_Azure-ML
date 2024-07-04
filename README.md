@@ -42,6 +42,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 - Go to https://portal.azure.com.<br><br>
 - Under **Azure services**, click ``Create a resource``.<br><br>
+- Next, search for "Azure Machine Learning", then click the **Azure Machine Learning** service<br><br>
 - 
 
 <br>
