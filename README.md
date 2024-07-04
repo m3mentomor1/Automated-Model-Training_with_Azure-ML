@@ -56,9 +56,14 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 ### 2. Upload a dataset as a data asset
 
+> ![Upload dataset](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/623cdba1-98f4-4573-9d5e-bdce024d6ef8)
+
 - Go to the workspace you created.<br><br>
 - In the left navigation pane, go to **Data**.<br><br>
 - In the **Data** page, click ``+ Create``.<br><br>
+
+> ![Upload dataset](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/382605a2-1ca9-4828-aa7c-54122bff1b3b)
+
 - In the **Name** section, enter a name for your data asset (***Note:** You can choose any name, but for this project, it will be named "bankmarketing".*). Next, in the **Type** section, select the type of data stored in your dataset. (***Note:** For this project, the type of data we'll use is "Tabular".*). After that, click ``Next``.<br><br>
 - Select the source from which your dataset will be imported by choosing a source for your data asset. (***Note:** For this project, we'll select "From local files".*). After that, click ``Next``.<br><br>
 - In the **Datastore type** section, select the type of storage where your dataset will be stored. (***Note:** For this project, we'll use the default option, which is "Azure Blob Storage".*)<br><br>
