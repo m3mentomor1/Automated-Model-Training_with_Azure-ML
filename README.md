@@ -56,7 +56,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 ### 2. Upload a dataset
 
-- Go to the workspace you created.
+- Go to the workspace you created.<br><br>
 - In the left navigation pane, go to **Data**.<br><br>
 - In the **Data** page, click ``+ Create``.<br><br>
 - In the **Name** section, enter a name for your data asset (***Note:** You can choose any name, but for this project, it will be named "bankmarketing".*). Next, in the **Type** section, select the type of data stored in your dataset. (***Note:** For this project, the type of data we'll use is "Tabular".*). After that, click ``Next``.<br><br>
