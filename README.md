@@ -54,7 +54,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 <br>
 
-### 2. Upload a dataset
+### 2. Upload a dataset as a data asset
 
 - Go to the workspace you created.<br><br>
 - In the left navigation pane, go to **Data**.<br><br>
