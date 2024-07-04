@@ -62,14 +62,20 @@ For demonstration purposes, this tutorial will train a simple classification mod
 - In the left navigation pane, go to **Data**.<br><br>
 - In the **Data** page, click ``+ Create``.<br><br>
 
-> ![Upload dataset](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/382605a2-1ca9-4828-aa7c-54122bff1b3b)
+> ![Data type to data source](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/916d5af2-ca40-460f-88d3-3cecf6847354)
 
 - In the **Name** section, enter a name for your data asset (***Note:** You can choose any name, but for this project, it will be named "bankmarketing".*). Next, in the **Type** section, select the type of data stored in your dataset. (***Note:** For this project, the type of data we'll use is "Tabular".*). After that, click ``Next``.<br><br>
 - Select the source from which your dataset will be imported by choosing a source for your data asset. (***Note:** For this project, we'll select "From local files".*). After that, click ``Next``.<br><br>
+
+> 
+
 - In the **Datastore type** section, select the type of storage where your dataset will be stored. (***Note:** For this project, we'll use the default option, which is "Azure Blob Storage".*)<br><br>
 - Select a datastore from the list of existing datastores or create a new one by clicking ``Create new datastore``. (***Note:** For this project, we'll use the default option, which is "workspaceblobstore".*). After that, click ``Next``.<br><br> 
 - Select "Upload files" from the **Upload files or folder** drop-down, then upload your dataset. (***Note:** For this project, I recommend downloading and using this [dataset](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/blob/main/dataset/bankmarketing_train.csv), as this is what we'll use.*). After the dataset has been uploaded, click ``Next``.<br><br> 
-- In the **Data preview** section, verify that the data in the dataset is populated as follows.<br><br> 
+
+>
+
+- In the **Data preview** section, verify that the data in the dataset is populated as follows.<br><br>
 - Verify that the data is properly formatted. After you verify that the data is populated & properly formatted, click ``Next``. (***Note:** For this project, keep the data format as it is: **File format** set to "Delimited", **Delimiter** set to "Comma", **Column headers** set to "All files have same headers", **Encoding** set to "UTF-8", **Skip rows** set to "None"*)<br><br>
 - On **Schema**, ensure that the data **Type** of each column in the dataset is correct and modify the columns you want to include (***Note:** For this project, we'll leave the configured data types as is and include all columns.*). After everything is verified, click ``Next``.<br><br>
 - On **Review**, ensure that all information matches what was previously configured for your data asset. Once everything is verified, click ``Create``.
