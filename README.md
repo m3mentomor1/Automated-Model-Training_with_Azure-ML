@@ -20,7 +20,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 ### 🎓 III. Tutorial
 
-#### 1. Create a workspace
+#### 1. Create a workspace<br>
 
 **Option 1 - From the *Azure Machine Learning Studio* website:**
 
