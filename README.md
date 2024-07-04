@@ -20,7 +20,9 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 ### 🎓 III. Tutorial
 
-**1. Create a workspace:**
+**1. Create a workspace**
+
+Option 1: From the **Azure Machine Learning Studio** website
 
 > ![Workspace Creation](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/fb3aab2d-b3b5-437d-8625-15b67ec79bba)
 
@@ -47,7 +49,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 <br>
 
-**3. Create an automated Machine Learning job:** 
+**3. Create an automated Machine Learning job** 
 
 
  
