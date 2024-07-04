@@ -42,8 +42,14 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 - Go to https://portal.azure.com.<br><br>
 - Under **Azure services**, click ``Create a resource``.<br><br>
-- Next, search for "Azure Machine Learning", then click the **Azure Machine Learning** service<br><br>
-- 
+- Search for "Azure Machine Learning" and click on the **Azure Machine Learning** service.<br><br>
+- Click ``Create``.<br><br>
+- In the **Subscription** section, select the subscription you want to use for the workspace. (***Note:** You can choose any subscription you have.*)<br><br>
+- In the **Resource group** section, select an existing resource group from your Azure account or create a new one by clicking ``Create new``. This resource group will store the instance for your Azure ML Studio workspace.<br><br>
+- In the **Name** section, enter a name for your workspace. (***Note:** You can choose any name.*)<br><br>
+- In the **Region** section, choose the region where you want your workspace to be deployed. (***Note:** Select a region based on accessibility and availability. For this project, it will be deployed in "East US 2" due to its high availability.*)<br><br>
+- Click ``Review + create``.<br><br>
+- After passing the validation, click ``Create``.
 
 <br>
 
