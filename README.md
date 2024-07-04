@@ -41,6 +41,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 >
 
 - Go to https://portal.azure.com.<br><br>
+- Under **Azure services**, click ``Create a resource``.<br><br>
 - 
 
 <br>
