@@ -50,7 +50,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 - Click ``Review + create``.<br><br>
 - After passing the validation, click ``Create``.
 - After successful deployment, go to https://ml.azure.com.<br><br>
-- In the left navigation pane, go to **Workspaces**.<br><br>
+- In the left navigation pane, go to **Workspaces**.
 
 <br>
 
