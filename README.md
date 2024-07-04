@@ -13,7 +13,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 ### 📋 II. Prerequisites
 
 - Azure account and subscription.<br>
-- Familiarity with basic Azure concepts such as resource groups, subscriptions, Azure Storage, and Azure Compute.<br>
+- Familiarity with basic Azure concepts such as resource groups, subscriptions, Azure Storage, Azure Compute, and some familiarity with Azure Machine Learning Studio is recommended.<br>
 - Basic understanding of machine learning concepts such as supervised learning, classification, regression, and evaluation metrics.
 <br><br>
 ##
@@ -24,6 +24,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 > ![Workspace](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/efce2078-305c-49b5-acf6-219346e1dcd2)
 
+- Go to https://ml.azure.com.
 - In the left navigation pane, go to **Workspaces**, then click ``+ New``.<br><br>
 - In the **Name** section, enter a name for your workspace. (***Note:** You can choose any name.*)<br><br>
 - In the **Subscription** section, select the subscription you want to use for the workspace. (***Note:** You can choose any subscription you have.*)<br><br>
