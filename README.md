@@ -26,6 +26,7 @@ This is a no-code tutorial project that involves training a machine learning mod
 
 - In the left navigation pane, go to **Workspaces**, then click ``+ New``.<br><br>
 - In the **Name** section, enter a name for your workspace.
+
 (***Note:** You can choose any name, but for this project, it will be named "Demo".*)<br><br>
 - In the **Subscription** section, select the subscription you want to use for the workspace. (***Note:** You can choose any subscription you have, but for this project, my "Visual Studio Enterprise Subscription" will be used.*)<br><br>
 - In the **Resource group** section, select an existing resource group from your Azure account or create a new one by clicking ``Create new``. This resource group will store the instance for your Azure ML Studio workspace.<br><br>
