@@ -38,7 +38,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 **Option 2: From the main *Azure* portal**<br>
 
->
+> ![Option 2 - Workspace Creation](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/62327be5-aa8a-47ff-a582-b2d3a98061a6)
 
 - Go to https://portal.azure.com.<br><br>
 - Under **Azure services**, click ``Create a resource``.<br><br>
