@@ -48,7 +48,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 - In the **Name** section, enter a name for your workspace. (***Note:** You can choose any name.*)<br><br>
 - In the **Region** section, choose the region where you want your workspace to be deployed. (***Note:** Select a region based on accessibility and availability. For this project, it will be deployed in "East US 2" due to its high availability.*)<br><br>
 - Click ``Review + create``.<br><br>
-- After passing the validation, click ``Create``.
+- After passing the validation, click ``Create``.<br><br>
 - After successful deployment, go to https://ml.azure.com.<br><br>
 - In the left navigation pane, go to **Workspaces**.
 
