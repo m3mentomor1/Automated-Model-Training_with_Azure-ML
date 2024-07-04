@@ -68,7 +68,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 <br>
 
-### 3. Create an automated Machine Learning job
+### 3. Create an automated machine learning job
 
 
  
