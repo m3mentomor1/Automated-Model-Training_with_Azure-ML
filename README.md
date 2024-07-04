@@ -20,7 +20,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 ### 🎓 III. Tutorial<br><br>
 
-**1. Create a workspace**<br>
+### 1. Create a workspace<br>
 
 **Option 1: From the *Azure Machine Learning Studio* website**<br>
 
@@ -45,7 +45,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 <br>
 
-**2. Upload a dataset:**
+### 2. Upload a dataset
 
 - In the **Assets** section, go to **Data**.<br><br>
 - In the **Data** page, click ``+ Create``.<br><br>
