@@ -6,7 +6,7 @@
 
 This is a no-code tutorial project that involves training a machine learning model using Automated ML/AutoML in Azure Machine Learning Studio. 
 
-For demonstration purposes, this tutorial will train a simple classification model to predict whether a client will subscribe to a fixed-term deposit with a financial institution.
+For demonstration purposes, this tutorial will train a simple classification model to predict whether a client will subscribe to a fixed-term deposit with a financial institution or not.
 <br><br>
 ##
 
