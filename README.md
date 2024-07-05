@@ -73,11 +73,14 @@ For demonstration purposes, this tutorial will train a simple classification mod
 - Select a datastore from the list of existing datastores or create a new one by clicking ``Create new datastore``. (***Note:** For this project, we'll use the default option, which is "workspaceblobstore".*). After that, click ``Next``.<br><br> 
 - Select "Upload files" from the **Upload files or folder** drop-down, then upload your dataset. (***Note:** For this project, I recommend downloading and using this [dataset](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/blob/main/dataset/bankmarketing_train.csv), as this is what we'll use.*). After the dataset has been uploaded, click ``Next``.<br><br> 
 
->
+> ![demo22](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/c8427979-ef5b-448b-9d17-0d74dad9febc)
 
 - In the **Data preview** section, verify that the data in the dataset is populated as follows.<br><br>
 - Verify that the data is properly formatted. After you verify that the data is populated & properly formatted, click ``Next``. (***Note:** For this project, keep the data format as it is: **File format** set to "Delimited", **Delimiter** set to "Comma", **Column headers** set to "All files have same headers", **Encoding** set to "UTF-8", **Skip rows** set to "None", leave the **Dataset contains multi-line data** un-ticked*)<br><br>
-- On **Schema**, ensure that the data **Type** of each column in the dataset is correct and modify the columns you want to include (***Note:** For this project, we'll leave the configured data types as is and include all columns.*). After everything is verified, click ``Next``.<br><br>
+- On **Schema**, ensure that the data **Type** of each column in the dataset is correct and modify the columns you want to include. After everything is verified, click ``Next``.<br><br>
+
+> 
+
 - On **Review**, ensure that all information matches what was previously configured for your data asset. Once everything is verified, click ``Create``.
 
 <br>
