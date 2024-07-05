@@ -87,8 +87,8 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 ### 3. Create an automated machine learning job
 
-
- 
+- In the left navigation pane, go to **Automated ML**, then click ``+ New Automated ML job``.<br><br> 
+- 
 
 
  
