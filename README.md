@@ -79,8 +79,8 @@ For demonstration purposes, this tutorial will train a simple classification mod
 - Verify that the data is properly formatted. After you verify that the data is populated & properly formatted, click ``Next``. (***Note:** For this project, keep the data format as it is: **File format** set to "Delimited", **Delimiter** set to "Comma", **Column headers** set to "All files have same headers", **Encoding** set to "UTF-8", **Skip rows** set to "None", leave the **Dataset contains multi-line data** un-ticked*)<br><br>
 - On **Schema**, ensure that the data **Type** of each column in the dataset is correct and modify the columns you want to include. After everything is verified, click ``Next``.<br><br>
 
-> 
-
+> ![last part](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/48749489-3b6c-402c-8508-c9b65e2ae614)
+ 
 - On **Review**, ensure that all information matches what was previously configured for your data asset. Once everything is verified, click ``Create``.
 
 <br>
