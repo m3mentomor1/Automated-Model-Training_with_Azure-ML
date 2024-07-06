@@ -93,7 +93,8 @@ For demonstration purposes, this tutorial will train a simple classification mod
 - In the **New experiment name** section, enter a name for your experiment. (***Note:** You can choose any name, but for this project, you can name it "Binary-Classification" since the model we will train is a binary classification model.*)<br><br>
 - In the **Description** section, you can also put a description about your experiment. (**Optional**)<br><br>
 - Click **Next**.<br><br>
-- Select "Classification" from the **Select task type** drop-down, then in the **Select data** section select the "bankmarketing" dataset we just uploaded earlier. After that, click **Next**.<br><br>
+- Select "Classification" from the **Select task type** drop-down. Then, in the **Select data** section, select the "bankmarketing" dataset we uploaded. After that, click **Next**.<br><br>
+- In the **Target column** section, select "y (string)" as this column indicates whether the client subscribed to a term deposit or not, which corresponds to what we want our model to predict.<br><br>
 - 
 
  
