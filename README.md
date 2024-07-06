@@ -89,9 +89,9 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 - In the left navigation pane, go to **Automated ML**, then click ``+ New Automated ML job``.<br><br> 
 - In the **Job name** section, enter a name for your training job. (***Note:** You can choose any name, but for this project, you can simply name it "Deposit-Subscription-Prediction".*)<br><br>
-- In the **Experiment name** section, select "Create new". (***Note:** If this is your first time creating an experiment/job or you don't have any existing experiment this section might be grayed out & defaultly selected to "Create new" if this is the case leave it as is.)<br><br> 
+- In the **Experiment name** section, select "Create new". (***Note:**  If this is your first time creating an experiment/job or you don't have any existing experiments, this section might be grayed out and defaulted to "Create new". If this is the case, leave it as is.)<br><br> 
 - In the **New experiment name** section, enter a name for your experiment. (***Note:** You can choose any name, but for this project, you can name it "Binary-Classification" since the model we will train is a binary classification model.*)<br><br>
-- In the **Description** section, you can also put a description about the experiment. (**Optional**)<br><br>
+- In the **Description** section, you can also put a description about your experiment. (**Optional**)<br><br>
 - Click **Next**.<br><br>
 - 
 
