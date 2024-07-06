@@ -12,9 +12,9 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 ### 📋 II. Prerequisites
 
-- Azure account and subscription.<br>
-- Familiarity with basic Azure concepts such as resource groups, subscriptions, Azure Storage, Azure Compute, and some familiarity with Azure Machine Learning Studio is recommended.<br>
-- Basic understanding of machine learning concepts such as supervised learning, classification, regression, and evaluation metrics.
+- Azure account & subscription.<br>
+- Familiarity with basic Azure concepts such as resource groups, subscriptions, Azure Storage, Azure Compute, & some familiarity with Azure Machine Learning Studio is recommended.<br>
+- Basic understanding of machine learning concepts such as supervised learning, classification, regression, & evaluation metrics.
 <br><br>
 ##
 
@@ -31,7 +31,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 - In the **Name** section, enter a name for your workspace. (***Note:** You can choose any name.*)<br><br>
 - In the **Subscription** section, select the subscription you want to use for the workspace. (***Note:** You can choose any subscription you have.*)<br><br>
 - In the **Resource group** section, select an existing resource group from your Azure account or create a new one by clicking ``Create new``. This resource group will store the instance for your Azure ML Studio workspace.<br><br>
-- In the **Region** section, choose the region where you want your workspace to be deployed. (***Note:** Select a region based on accessibility and availability. For this project, it will be deployed in "East US 2" due to its high availability.*)<br><br>
+- In the **Region** section, choose the region where you want your workspace to be deployed. (***Note:** Select a region based on accessibility & availability. For this project, it will be deployed in "East US 2" due to its high availability.*)<br><br>
 - Click ``Create``.
 
 <br>
@@ -42,11 +42,11 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 - Go to https://portal.azure.com.<br><br>
 - Under **Azure services**, click ``Create a resource``.<br><br>
-- Search for "Azure Machine Learning" and click on the **Azure Machine Learning** service, then click ``Create``.<br><br>
+- Search for "Azure Machine Learning" & click on the **Azure Machine Learning** service, then click ``Create``.<br><br>
 - In the **Subscription** section, select the subscription you want to use for the workspace. (***Note:** You can choose any subscription you have.*)<br><br>
 - In the **Resource group** section, select an existing resource group from your Azure account or create a new one by clicking ``Create new``. This resource group will store the instance for your Azure ML Studio workspace.<br><br>
 - In the **Name** section, enter a name for your workspace. (***Note:** You can choose any name.*)<br><br>
-- In the **Region** section, choose the region where you want your workspace to be deployed. (***Note:** Select a region based on accessibility and availability. For this project, it will be deployed in "East US 2" due to its high availability.*)<br><br>
+- In the **Region** section, choose the region where you want your workspace to be deployed. (***Note:** Select a region based on accessibility & availability. For this project, it will be deployed in "East US 2" due to its high availability.*)<br><br>
 - Click ``Review + create``.<br><br>
 - After passing the validation, click ``Create``.<br><br>
 - After successful deployment, go to https://ml.azure.com.<br><br>
@@ -71,13 +71,13 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 - In the **Datastore type** section, select the type of storage where your dataset will be stored. (***Note:** For this project, we'll use the default option, which is "Azure Blob Storage".*)<br><br>
 - Select a datastore from the list of existing datastores or create a new one by clicking ``Create new datastore``. (***Note:** For this project, we'll use the default option, which is "workspaceblobstore".*). After that, click ``Next``.<br><br> 
-- Select "Upload files" from the **Upload files or folder** drop-down, then upload your dataset. (***Note:** For this project, I recommend downloading and using this [dataset](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/blob/main/dataset/bankmarketing_train.csv), as this is what we'll use.*). After the dataset has been uploaded, click ``Next``.<br><br> 
+- Select "Upload files" from the **Upload files or folder** drop-down, then upload your dataset. (***Note:** For this project, I recommend downloading & using this [dataset](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/blob/main/dataset/bankmarketing_train.csv), as this is what we'll use.*). After the dataset has been uploaded, click ``Next``.<br><br> 
 
 > ![demo22](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/c8427979-ef5b-448b-9d17-0d74dad9febc)
 
 - In the **Data preview** section, verify that the data in the dataset is populated as follows.<br><br>
 - Verify that the data is properly formatted. After you verify that the data is populated & properly formatted, click ``Next``. (***Note:** For this project, keep the data format as it is: **File format** set to "Delimited", **Delimiter** set to "Comma", **Column headers** set to "All files have same headers", **Encoding** set to "UTF-8", **Skip rows** set to "None", leave the **Dataset contains multi-line data** un-ticked*)<br><br>
-- On **Schema**, ensure that the data **Type** of each column in the dataset is correct and modify the columns you want to include. After everything is verified, click ``Next``.<br><br>
+- On **Schema**, ensure that the data **Type** of each column in the dataset is correct & modify the columns you want to include. After everything is verified, click ``Next``.<br><br>
 
 > ![last part](https://github.com/m3mentomor1/Automated-Model-Training_with_Azure-ML-Studio/assets/95956735/48749489-3b6c-402c-8508-c9b65e2ae614)
  
@@ -89,7 +89,7 @@ For demonstration purposes, this tutorial will train a simple classification mod
 
 - In the left navigation pane, go to **Automated ML**, then click ``+ New Automated ML job``.<br><br> 
 - In the **Job name** section, enter a name for your training job. (***Note:** You can choose any name, but for this project, you can simply name it "Deposit-Subscription-Prediction".*)<br><br>
-- In the **Experiment name** section, select "Create new". (***Note:**  If this is your first time creating an experiment/job or you don't have any existing experiments, this section might be grayed out and defaulted to "Create new". If this is the case, leave it as is.)<br><br> 
+- In the **Experiment name** section, select "Create new". (***Note:**  If this is your first time creating an experiment/job or you don't have any existing experiments, this section might be grayed out & defaulted to "Create new". If this is the case, leave it as is.)<br><br> 
 - In the **New experiment name** section, enter a name for your experiment. (***Note:** You can choose any name, but for this project, you can name it "Binary-Classification" since the model we will train is a binary classification model.*)<br><br>
 - In the **Description** section, you can also put a description about your experiment. (**Optional**)<br><br>
 - Click **Next**.<br><br>
