@@ -88,8 +88,8 @@ For demonstration purposes, this tutorial will train a simple classification mod
 ### 3. Create an automated machine learning job
 
 - In the left navigation pane, go to **Automated ML**, then click ``+ New Automated ML job``.<br><br> 
-- 
-
+- In the **Job name** section, enter a name for your training job. (***Note:** You can choose any name, but for this project, you can just name it "Deposit-Subscription-Prediction".*)<br><br>
+- In the **New experiment name** section, enter a name for your experiment. (***Note:** You can choose any name, but for this project, you can just name it "Binary-Classification" since the model we will train is a binary classification model.*)<br><br> 
 
  
 
